@@ -1,0 +1,6 @@
+# Eclipse internal files
+/.checkstyle
+/.classpath
+/.project
+/.settings/
+/target/
